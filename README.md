@@ -1,3 +1,26 @@
+<h1 align="center">Seth Paul</h1>
+
+## Web/App Development Projects
+<table>
+ <tr colspan="2">
+   
+ </tr>
+ <tr>
+   
+   <td>The Panhandle Gator Club</td>
+   <td>https://panhandlegatorclub.com</td>
+ </tr>
+  <tr>
+   <td>Florida Resource Map</td>
+   <td>https://www.floridaresourcemap.org/</td>
+ </tr>
+  <tr>
+   <td>GoBituary</td>
+   <td>https://www.gobituary.app/</td>
+ </tr>
+</table>
+
+
 ## Skills
 ### Languages:
 | C | C++ | C# | Java | JavaScript | TypeScript | Go | HTML | CSS | MATLAB | Python |
