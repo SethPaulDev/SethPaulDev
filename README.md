@@ -20,6 +20,37 @@
  </tr>
 </table>
 
+## Academic Projects
+<table>
+ <tr colspan="2">
+   
+ </tr>
+ <tr>
+   
+   <td>Mascot Mayhem (CIS4914)</td>
+   <td>https://github.com/sethyboy20/Mascot-Mayhem</td>
+ </tr>
+  <tr>
+   <td>College Football Stats (CIS4301)</td>
+   <td>https://github.com/sethyboy20/CollegeFootballStats</td>
+ </tr>
+  <tr>
+   <td>Mallow (CEN3031)</td>
+   <td>https://github.com/sethyboy20/Mallow</td>
+ </tr>
+ <tr>
+   <td>Amazon Books Scavenger (COP3530)</td>
+   <td>https://github.com/sethyboy20/Amazon-Books-Scavenger</td>
+ </tr>
+ <tr>
+   <td>Robocode (CAP4053)</td>
+   <td>https://github.com/sethyboy20/Robocode</td>
+ </tr>
+ <tr>
+   <td>Find Sequences (COT3100)</td>
+   <td>https://github.com/sethyboy20/Find-Sequences</td>
+ </tr>
+</table>
 
 ## Skills
 ### Languages:
