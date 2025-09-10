@@ -16,7 +16,7 @@
  </tr>
   <tr>
    <td>GoBituary</td>
-   <td>https://www.gobituary.app/</td>
+   <td>https://floridainnovation.org/projects/gobituary/<br>https://www.gobituary.app/</td>
  </tr>
 </table>
 
