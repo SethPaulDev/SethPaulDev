@@ -57,6 +57,14 @@
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+### AI Models
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Devin](https://img.shields.io/badge/Devin-5B5BD6?style=for-the-badge)
+![Cursor Composer](https://img.shields.io/badge/Cursor_Composer-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
 ### Methodologies
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-6DB33F?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-Agile-0052CC?style=for-the-badge)
